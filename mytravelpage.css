@@ -54,12 +54,6 @@ body {
     position: fixed;
 }
 
-.wrapper .mainpage .section1 {
-    display: flex;
-    position: fixed;
-    flex-direction: row;
-}
-
 
  .btn-group .button {
     background-color: #a9a9a9a3;
